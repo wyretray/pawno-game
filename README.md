@@ -8,7 +8,7 @@
 
 main()
 {
-print(_text);
+   print(_text);
 }
 ```
 **Клавиши управления:
