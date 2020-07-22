@@ -1,0 +1,32 @@
+
+canvas {
+	border:10px solid burlywood;
+	margin-top: absolute;
+	margin-left: 10px;
+	width: 600;
+	height: 800;
+	position: fixed;
+	float: left;
+}
+.text {
+	color: orange;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size: 35px;
+}
+.text_b {
+	color: gray;
+	font-size: 15px;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.code {
+	height: 300;
+	width: 200;
+	position: fixed;
+	margin-left: 850px;
+	margin-top: auto;
+	margin-right: 20px;
+	float: left;
+	background-color: gray;
+	border-radius: 50px 50px 50px 50px;
+}
